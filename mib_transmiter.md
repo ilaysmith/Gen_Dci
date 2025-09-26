@@ -13,6 +13,6 @@ Master information block - главный информационный блок.
 
 Графически последовательность алгоритмов изображена здесь:   
 ![Диаграмма этапов обработки dci](mib_transmitter.png)  
-[ссылка на receiver](mib_receiver)
+[ссылка на receiver](mib_receiver.md)
  
  
